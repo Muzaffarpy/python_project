@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-# Get user's name
-name = st.text_input("Enter your name:")
 
 # Sidebar menu
 st.sidebar.title("Menu")
