@@ -1,7 +1,6 @@
 
-#Netflix type system demo - FakeFlix
-import csv
-import sys
+import streamlit as st
+import pandas as pd
 
 def main():
    menu()
